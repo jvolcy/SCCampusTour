@@ -1,0 +1,497 @@
+{
+  "file_description" : "*** Spelman College Campus Tour (SCCT), Points of Interest (POI) JSON file description ***  All POI fields must be filled out.  In the case of the URLs, you may enter a *relative* URL, the value NONE or the value DEFAULT.  NONE indicates that the specified resource is unavailable for the POI.  A value of DEFAULT indicates that the resource is at the default URL and has a name of POI_ID.rtf, POI_ID.jpg, POI_ID.mp3 or POI_ID.mp4 depending on the resource in question. The LATITUDE and LONGITUDE entries are the GPS coordinates of the individual POIs in the file.  The RADIUS_FT entry is the radius (in feet) around the POI's GPS center where the POI is considered to be in range.  All four resources are not required.  If a video resource is provided, the IMG and AUDIO resources are ignored.",
+      
+  "pois" : [
+    {
+      "POI_ID" : "ABBY_ALDRICH",
+      "TITLE" : "Abby Aldrich Rockefeller Hall",
+      "LATITUDE" : "33.746707",
+      "LONGITUDE" : "-84.410210",
+      "RADIUS_FT" : "90",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "ACC",
+      "TITLE" : "Academic Computing Center",
+      "LATITUDE" : "33.745436",
+      "LONGITUDE" : "-84.409298",
+      "RADIUS_FT" : "60",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "AMPHITHEATER",
+      "TITLE" : "Amphitheater",
+      "LATITUDE" : "33.744450",
+      "LONGITUDE" : "-84.412055",
+      "RADIUS_FT" : "45",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "ARCH",
+      "TITLE" : "The Spelman Arch",
+      "LATITUDE" : "33.745148",
+      "LONGITUDE" : "-84.410067",
+      "RADIUS_FT" : "50",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "BDT_SUITES",
+      "TITLE" : "Beverly Daniel Tatum Suites",
+      "LATITUDE" : "33.744042",
+      "LONGITUDE" : "-84.412561",
+      "RADIUS_FT" : "100",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "BESSIE_STRONG",
+      "TITLE" : "Bessie Strong Hall",
+      "LATITUDE" : "33.744423",
+      "LONGITUDE" : "-84.410799",
+      "RADIUS_FT" : "70",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "COSBY",
+      "TITLE" : "The Camille Olivia Hanks Cosby, Ed.D. Academic Center",
+      "LATITUDE" : "33.746219",
+      "LONGITUDE" : "-84.412299",
+      "RADIUS_FT" : "150",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "FINE_ARTS",
+      "TITLE" : "John D. Rockefeller Fine Arts Building",
+      "LATITUDE" : "33.746487",
+      "LONGITUDE" : "-84.413211",
+      "RADIUS_FT" : "140",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "FMS",
+      "TITLE" : "Facilities Management & Services",
+      "LATITUDE" : "33.746614",
+      "LONGITUDE" : "-84.411755",
+      "RADIUS_FT" : "50",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "GILES",
+      "TITLE" : "Giles Hall",
+      "LATITUDE" : "33.746659",
+      "LONGITUDE" : "-84.410808",
+      "RADIUS_FT" : "125",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "HOWARD_HARRELD",
+      "TITLE" : "Howard-Harreld Hall",
+      "LATITUDE" : "33.744881",
+      "LONGITUDE" : "-84.412106",
+      "RADIUS_FT" : "90",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "LAURA_SPELMAN",
+      "TITLE" : "Laura Spelman Hall",
+      "LATITUDE" : "33.745710",
+      "LONGITUDE" : "-84.409708",
+      "RADIUS_FT" : "80",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "LLC1",
+      "TITLE" : "Donald and Isabel Stewart Living & Learning Center",
+      "LATITUDE" : "33.744056",
+      "LONGITUDE" : "-84.411564",
+      "RADIUS_FT" : "130",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "LLC2",
+      "TITLE" : "Johnnetta Betsch Cole Living & Learning Center",
+      "LATITUDE" : "33.743462",
+      "LONGITUDE" : "-84.410910",
+      "RADIUS_FT" : "175",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "LLC2_AUDITORIUM",
+      "TITLE" : "LLC II Auditorium",
+      "LATITUDE" : "33.743725",
+      "LONGITUDE" : "-84.410754",
+      "RADIUS_FT" : "100",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "MACVICAR",
+      "TITLE" : "MacVicar Health Services",
+      "LATITUDE" : "33.744704",
+      "LONGITUDE" : "-84.411183",
+      "RADIUS_FT" : "125",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "MANLEY_CENTER",
+      "TITLE" : "Albert E. Manley College Center",
+      "LATITUDE" : "33.745191",
+      "LONGITUDE" : "-84.411465",
+      "RADIUS_FT" : "150",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "MANLEY_HALL",
+      "TITLE" : "Dorothy Shepard Manley Hall",
+      "LATITUDE" : "33.745407",
+      "LONGITUDE" : "-84.412385",
+      "RADIUS_FT" : "80",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "MCALPIN",
+      "TITLE" : "Sally Sage McAlpin Hall",
+      "LATITUDE" : "33.745108",
+      "LONGITUDE" : "-84.412605",
+      "RADIUS_FT" : "80",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "MILIGAN",
+      "TITLE" : "Milligan Building",
+      "LATITUDE" : "33.744307",
+      "LONGITUDE" : "-84.413103",
+      "RADIUS_FT" : "125",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "MOREHOUSE_JAMES",
+      "TITLE" : "Morehouse-James Hall",
+      "LATITUDE" : "33.746266",
+      "LONGITUDE" : "-84.410089",
+      "RADIUS_FT" : "60",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "NEW_OVAL",
+      "TITLE" : "The New Oval",
+      "LATITUDE" : "33.744426",
+      "LONGITUDE" : "-84.411915",
+      "RADIUS_FT" : "50",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "PACKARD",
+      "TITLE" : "Packard Hall",
+      "LATITUDE" : "33.745887",
+      "LONGITUDE" : "-84.411030",
+      "RADIUS_FT" : "100",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "PARK",
+      "TITLE" : "The Park!!!",
+      "LATITUDE" : "33.743957",
+      "LONGITUDE" : "-84.414818",
+      "RADIUS_FT" : "200",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "POST_OFFICE",
+      "TITLE" : "Bookstore/Post Office",
+      "LATITUDE" : "33.745436",
+      "LONGITUDE" : "-84.411864",
+      "RADIUS_FT" : "60",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "READ",
+      "TITLE" : "Read Hall",
+      "LATITUDE" : "33.743980",
+      "LONGITUDE" : "-84.409812",
+      "RADIUS_FT" : "150",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "REYNOLDS_COTTAGE",
+      "TITLE" : "Reynolds Cottage",
+      "LATITUDE" : "33.744868",
+      "LONGITUDE" : "-84.410331",
+      "RADIUS_FT" : "70",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "ROCKEFELLER",
+      "TITLE" : "Rockefeller Hall",
+      "LATITUDE" : "33.745324",
+      "LONGITUDE" : "-84.410728",
+      "RADIUS_FT" : "100",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "SCIENCE_CENTER",
+      "TITLE" : "Albro-Falconer-Manley Science Center",
+      "LATITUDE" : "33.744838",
+      "LONGITUDE" : "-84.409099",
+      "RADIUS_FT" : "150",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "SISTERS_CHAPEL",
+      "TITLE" : "Sisters Chapel",
+      "LATITUDE" : "33.744547",
+      "LONGITUDE" : "-84.410077",
+      "RADIUS_FT" : "130",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "TAPLEY",
+      "TITLE" : "Tapley Hall",
+      "LATITUDE" : "33.745215",
+      "LONGITUDE" : "-84.409394",
+      "RADIUS_FT" : "60",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "TENNIS_COURTS",
+      "TITLE" : "Tennis Courts",
+      "LATITUDE" : "33.743819",
+      "LONGITUDE" : "-84.410309",
+      "RADIUS_FT" : "80",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "WEST_PARKING",
+      "TITLE" : "West Campus Parking Deck/ Public Safety",
+      "LATITUDE" : "33.745010",
+      "LONGITUDE" : "-84.413074",
+      "RADIUS_FT" : "150",
+      "RTF_URL" : "DEFAULT",
+      "IMG_URL" : "default.jpg",
+      "AUDIO_URL" : "default.mp3",
+      "VIDEO_URL" : "default.mp4"
+    },
+
+    {
+      "POI_ID" : "CHAPEL_ST",
+      "TITLE" : "Chapel St",
+      "LATITUDE" : "0",
+      "LONGITUDE" : "0",
+      "RADIUS_FT" : "50",
+      "RTF_URL" : "NONE",
+      "IMG_URL" : "NONE",
+      "AUDIO_URL" : "NONE",
+      "VIDEO_URL" : "NONE",
+    },
+
+    {
+      "POI_ID" : "GREENSFERRY_AVE",
+      "TITLE" : "Greensferry Ave",
+      "LATITUDE" : "0",
+      "LONGITUDE" : "0",
+      "RADIUS_FT" : "50",
+      "RTF_URL" : "NONE",
+      "IMG_URL" : "NONE",
+      "AUDIO_URL" : "NONE",
+      "VIDEO_URL" : "NONE",
+    },
+
+    {
+      "POI_ID" : "LEE_ST",
+      "TITLE" : "Lee St",
+      "LATITUDE" : "0",
+      "LONGITUDE" : "0",
+      "RADIUS_FT" : "50",
+      "RTF_URL" : "NONE",
+      "IMG_URL" : "NONE",
+      "AUDIO_URL" : "NONE",
+      "VIDEO_URL" : "NONE",
+    },
+
+    {
+      "POI_ID" : "MOREHOUSE_DECK",
+      "TITLE" : "Morehouse Deck",
+      "LATITUDE" : "0",
+      "LONGITUDE" : "0",
+      "RADIUS_FT" : "50",
+      "RTF_URL" : "NONE",
+      "IMG_URL" : "NONE",
+      "AUDIO_URL" : "NONE",
+      "VIDEO_URL" : "NONE",
+    },
+
+    {
+      "POI_ID" : "OVAL",
+      "TITLE" : "The Oval",
+      "LATITUDE" : "0",
+      "LONGITUDE" : "0",
+      "RADIUS_FT" : "50",
+      "RTF_URL" : "NONE",
+      "IMG_URL" : "NONE",
+      "AUDIO_URL" : "NONE",
+      "VIDEO_URL" : "NONE",
+    },
+
+    {
+      "POI_ID" : "SPELMAN_LN",
+      "TITLE" : "Spelman Ln",
+      "LATITUDE" : "0",
+      "LONGITUDE" : "0",
+      "RADIUS_FT" : "50",
+      "RTF_URL" : "NONE",
+      "IMG_URL" : "NONE",
+      "AUDIO_URL" : "NONE",
+      "VIDEO_URL" : "NONE",
+    },
+
+    {
+      "POI_ID" : "WEST_END_AVE",
+      "TITLE" : "West End Ave",
+      "LATITUDE" : "0",
+      "LONGITUDE" : "0",
+      "RADIUS_FT" : "50",
+      "RTF_URL" : "NONE",
+      "IMG_URL" : "NONE",
+      "AUDIO_URL" : "NONE",
+      "VIDEO_URL" : "NONE",
+    },
+
+    {
+      "POI_ID" : "WESTVIEW_DR",
+      "TITLE" : "Westview Dr",
+      "LATITUDE" : "0",
+      "LONGITUDE" : "0",
+      "RADIUS_FT" : "50",
+      "RTF_URL" : "NONE",
+      "IMG_URL" : "NONE",
+      "AUDIO_URL" : "NONE",
+      "VIDEO_URL" : "NONE",
+    }
+  ]
+}
