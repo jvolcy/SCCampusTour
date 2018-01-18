@@ -1,0 +1,21 @@
+{
+  "base_url" : "https://raw.githubusercontent.com/jvolcy/SCCampusTour/master/",
+  "poi_index_file" : "scct_poi.json",
+  "about_file" : "about.rtf",
+
+  "campusImageSizeX" : "4538",
+  "campusImageSizeY" : "3956",
+  "campusImageCalPoint1X" : "540",
+  "campusImageCalPoint1Y" : "454",
+  "campusImageCalPoint1Latitude" : "33.746832",
+  "campusImageCalPoint1Longitude" : "-84.413719",
+  "campusImageCalPoint2X" : "3551",
+  "campusImageCalPoint2Y" : "2631",
+  "campusImageCalPoint2Latitude" : "33.744402",
+  "campusImageCalPoint2Longitude" : "-84.409692",
+  "defaultLatitude" : "33.745897",
+  "defaultLongitude" : "-84.412897",
+
+  "lastestVersionMajorNumber" : "0",
+  "lastestVersionMinorNumber" : "1"
+}
