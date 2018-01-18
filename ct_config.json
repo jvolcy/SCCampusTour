@@ -1,7 +1,7 @@
 {
-  "base_url" : "https://raw.githubusercontent.com/jvolcy/SCCampusTour/master/",
-  "poi_index_file" : "scct_poi.json",
-  "about_file" : "about.rtf",
+  "baseUrl" : "https://raw.githubusercontent.com/jvolcy/SCCampusTour/master/",
+  "poiIndexFile" : "scct_poi.json",
+  "aboutFile" : "about.rtf",
 
   "campusImageSizeX" : "4538",
   "campusImageSizeY" : "3956",
