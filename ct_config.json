@@ -2,6 +2,7 @@
   "baseUrl" : "https://raw.githubusercontent.com/jvolcy/SCCampusTour/master/",
   "poiIndexFile" : "scct_poi.json",
   "aboutFile" : "about.rtf",
+  "defaultTourRtf" : "default.rtf",
 
   "campusImageSizeX" : "4538",
   "campusImageSizeY" : "3956",
