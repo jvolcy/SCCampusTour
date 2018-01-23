@@ -3,7 +3,7 @@
   "poiIndexFile" : "scct_poi.json",
   "aboutFile" : "about.rtf",
   "defaultTourRtf" : "default.rtf",
-  "locationUpdateRateSec" : "4",
+  "locationUpdateRateSec" : "2",
 
   "campusImageSizeX" : "1135",
   "campusImageSizeY" : "989",

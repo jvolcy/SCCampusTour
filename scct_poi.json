@@ -1,6 +1,6 @@
 {
   "file_description" : "*** Spelman College Campus Tour (SCCT), Points of Interest (POI) JSON file description ***  All POI fields must be filled out.  In the case of the URLs, you may enter a *relative* URL, the value NONE or the value DEFAULT.  NONE indicates that the specified resource is unavailable for the POI.  A value of DEFAULT indicates that the resource is at the default URL and has a name of POI_ID.rtf, POI_ID.jpg, POI_ID.mp3 or POI_ID.mp4 depending on the resource in question. The LATITUDE and LONGITUDE entries are the GPS coordinates of the individual POIs in the file.  The RADIUS_FT entry is the radius (in feet) around the POI's GPS center where the POI is considered to be in range.  All four resources are not required.  If a video resource is provided, the IMG and AUDIO resources are ignored.",
-      
+
   "pois" : [
     {
       "POI_ID" : "ABBY_ALDRICH",
@@ -407,7 +407,7 @@
       "RTF_URL" : "NONE",
       "IMG_URL" : "NONE",
       "AUDIO_URL" : "NONE",
-      "VIDEO_URL" : "NONE",
+      "VIDEO_URL" : "NONE"
     },
 
     {
@@ -419,7 +419,7 @@
       "RTF_URL" : "NONE",
       "IMG_URL" : "NONE",
       "AUDIO_URL" : "NONE",
-      "VIDEO_URL" : "NONE",
+      "VIDEO_URL" : "NONE"
     },
 
     {
@@ -431,7 +431,7 @@
       "RTF_URL" : "NONE",
       "IMG_URL" : "NONE",
       "AUDIO_URL" : "NONE",
-      "VIDEO_URL" : "NONE",
+      "VIDEO_URL" : "NONE"
     },
 
     {
@@ -443,7 +443,7 @@
       "RTF_URL" : "NONE",
       "IMG_URL" : "NONE",
       "AUDIO_URL" : "NONE",
-      "VIDEO_URL" : "NONE",
+      "VIDEO_URL" : "NONE"
     },
 
     {
@@ -455,7 +455,7 @@
       "RTF_URL" : "NONE",
       "IMG_URL" : "NONE",
       "AUDIO_URL" : "NONE",
-      "VIDEO_URL" : "NONE",
+      "VIDEO_URL" : "NONE"
     },
 
     {
@@ -467,7 +467,7 @@
       "RTF_URL" : "NONE",
       "IMG_URL" : "NONE",
       "AUDIO_URL" : "NONE",
-      "VIDEO_URL" : "NONE",
+      "VIDEO_URL" : "NONE"
     },
 
     {
@@ -479,7 +479,7 @@
       "RTF_URL" : "NONE",
       "IMG_URL" : "NONE",
       "AUDIO_URL" : "NONE",
-      "VIDEO_URL" : "NONE",
+      "VIDEO_URL" : "NONE"
     },
 
     {
@@ -491,7 +491,7 @@
       "RTF_URL" : "NONE",
       "IMG_URL" : "NONE",
       "AUDIO_URL" : "NONE",
-      "VIDEO_URL" : "NONE",
+      "VIDEO_URL" : "NONE"
     }
   ]
 }
