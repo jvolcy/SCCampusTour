@@ -5,16 +5,26 @@
   "defaultTourRtf" : "default.rtf",
   "locationUpdateRateSec" : "2",
 
-  "campusImageSizeX" : "1135",
-  "campusImageSizeY" : "989",
-  "campusImageCalPoint1X" : "135",
-  "campusImageCalPoint1Y" : "114",
-  "campusImageCalPoint1Latitude" : "33.746832",
-  "campusImageCalPoint1Longitude" : "-84.413719",
-  "campusImageCalPoint2X" : "888",
-  "campusImageCalPoint2Y" : "658",
-  "campusImageCalPoint2Latitude" : "33.744402",
-  "campusImageCalPoint2Longitude" : "-84.409692",
+  "neCampusImageCalPointX" : "1440",
+  "neCampusImageCalPointY" : "547",
+  "neCampusImageCalPointLatitude" : "33.746683",
+  "neCampusImageCalPointLongitude" : "-84.408508",
+
+  "seCampusImageCalPointX" : "1466",
+  "seCampusImageCalPointY" : "1070",
+  "seCampusImageCalPointLatitude" : "33.744345",
+  "seCampusImageCalPointLongitude" : "-84.408380",
+
+  "swCampusImageCalPointX" : "410",
+  "swCampusImageCalPointY" : "1366",
+  "swCampusImageCalPointLatitude" : "33.743027",
+  "swCampusImageCalPointLongitude" : "-84.414042",
+
+  "nwCampusImageCalPointX" : "443",
+  "nwCampusImageCalPointY" : "525",
+  "nwCampusImageCalPointLatitude" : "33.746781",
+  "nwCampusImageCalPointLongitude" : "-84.413861",
+
   "defaultLatitude" : "33.745897",
   "defaultLongitude" : "-84.412897",
 
