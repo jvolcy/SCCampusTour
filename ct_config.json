@@ -4,6 +4,7 @@
   "aboutFile" : "about.rtf",
   "defaultTourRtf" : "default.rtf",
   "locationUpdateRateSec" : "2",
+  "autoPlay" : "false",
 
   "neCampusImageCalPointX" : "1440",
   "neCampusImageCalPointY" : "547",
